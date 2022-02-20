@@ -68,6 +68,7 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\RotateGun.cs" />
+     <Compile Include="Assets\Scripts\Ui\Menu.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>E:/RiderProjects/Repapuper/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
